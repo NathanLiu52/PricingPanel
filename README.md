@@ -7,4 +7,5 @@ DESKTOP VERSION
 ![page](Screenshots/price1.PNG)
 
 MOBILE VERSION
-![page](Screenshots/price2.PNG)
+![top page](Screenshots/price2.png)
+![bottom page](Screenshots/price3.PNG)
